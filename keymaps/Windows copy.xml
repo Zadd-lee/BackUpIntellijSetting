@@ -1,5 +1,5 @@
 <keymap version="1" name="Windows copy" parent="$default">
-  <action id="CloseAllEditors">
-    <keyboard-shortcut first-keystroke="shift ctrl alt f4" />
+  <action id="FixDocComment">
+    <keyboard-shortcut first-keystroke="shift ctrl y" />
   </action>
 </keymap>
