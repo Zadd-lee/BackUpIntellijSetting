@@ -35,6 +35,7 @@
                         <GrepStyle>
                           <option name="backgroundColor">
                             <GrepColor>
+                              <option name="color" value="-13697024" />
                               <option name="colorKey" value="GrepConsole.error.background" />
                               <option name="enabled" value="true" />
                             </GrepColor>
@@ -158,5 +159,6 @@
         </Profile>
       </list>
     </option>
+    <option name="version" value="1" />
   </component>
 </application>
