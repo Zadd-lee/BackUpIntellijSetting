@@ -35,7 +35,6 @@
                         <GrepStyle>
                           <option name="backgroundColor">
                             <GrepColor>
-                              <option name="color" value="-13697024" />
                               <option name="colorKey" value="GrepConsole.error.background" />
                               <option name="enabled" value="true" />
                             </GrepColor>
@@ -94,12 +93,13 @@
                         <GrepStyle>
                           <option name="backgroundColor">
                             <GrepColor>
+                              <option name="color" value="-3579827" />
                               <option name="colorKey" value="GrepConsole.debug.background" />
-                              <option name="enabled" value="true" />
                             </GrepColor>
                           </option>
                           <option name="foregroundColor">
                             <GrepColor>
+                              <option name="color" value="-9903546" />
                               <option name="colorKey" value="GrepConsole.debug.foreground" />
                               <option name="enabled" value="true" />
                             </GrepColor>
@@ -130,33 +130,7 @@
                 </option>
               </GrepExpressionGroup>
               <GrepExpressionGroup>
-                <option name="grepExpressionItems">
-                  <list>
-                    <GrepExpressionItem>
-                      <option name="grepExpression" value="returnTest" />
-                      <option name="highlightOnlyMatchingText" value="true" />
-                      <option name="style">
-                        <GrepStyle>
-                          <option name="backgroundColor">
-                            <GrepColor>
-                              <option name="color" value="-74752" />
-                              <option name="enabled" value="true" />
-                            </GrepColor>
-                          </option>
-                          <option name="bold" value="true" />
-                          <option name="foregroundColor">
-                            <GrepColor>
-                              <option name="color" value="-16777216" />
-                              <option name="enabled" value="true" />
-                            </GrepColor>
-                          </option>
-                        </GrepStyle>
-                      </option>
-                      <option name="unlessGrepExpression" value="" />
-                    </GrepExpressionItem>
-                  </list>
-                </option>
-                <option name="name" value="return 값" />
+                <option name="name" value="@Theme Name@" />
               </GrepExpressionGroup>
             </list>
           </option>
