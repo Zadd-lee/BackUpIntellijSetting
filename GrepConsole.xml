@@ -88,13 +88,15 @@
                       </option>
                     </GrepExpressionItem>
                     <GrepExpressionItem>
+                      <option name="enabled" value="false" />
                       <option name="grepExpression" value=".*DEBUG.*" />
                       <option name="style">
                         <GrepStyle>
                           <option name="backgroundColor">
                             <GrepColor>
-                              <option name="color" value="-3579827" />
+                              <option name="color" value="-8355712" />
                               <option name="colorKey" value="GrepConsole.debug.background" />
+                              <option name="enabled" value="true" />
                             </GrepColor>
                           </option>
                           <option name="foregroundColor">
