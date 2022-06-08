@@ -28,7 +28,7 @@
   <component name="TodoConfiguration">
     <pattern pattern="\btodo\b.*" />
     <pattern pattern="\bfixme\b.*" />
-    <pattern icon="question" case-sensitive="true" pattern="\bTest\b." />
+    <pattern icon="question" case-sensitive="true" pattern="\btestCode\b." />
     <pattern icon="important" case-sensitive="true" pattern="\bdeleteMe\b." />
   </component>
 </application>
