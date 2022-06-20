@@ -134,10 +134,12 @@
                           </option>
                           <option name="foregroundColor">
                             <GrepColor>
+                              <option name="color" value="-1939886" />
                               <option name="colorKey" value="GrepConsole.trace.foreground" />
                               <option name="enabled" value="true" />
                             </GrepColor>
                           </option>
+                          <option name="italic" value="true" />
                         </GrepStyle>
                       </option>
                     </GrepExpressionItem>
