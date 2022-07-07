@@ -3,7 +3,7 @@
     <property name="created">2022-05-23T17:29:56</property>
     <property name="ide">idea</property>
     <property name="ideVersion">2021.3.3.0.0</property>
-    <property name="modified">2022-05-23T17:31:07</property>
+    <property name="modified">2022-07-07T16:20:01</property>
     <property name="originalScheme">DarkCode</property>
   </metaInfo>
   <colors>
@@ -17,37 +17,37 @@
   <attributes>
     <option name="INDENT_RAINBOW_COLOR_1">
       <value>
-        <option name="BACKGROUND" value="353a40" />
+        <option name="BACKGROUND" value="33373d" />
       </value>
     </option>
     <option name="INDENT_RAINBOW_COLOR_2">
       <value>
-        <option name="BACKGROUND" value="333e3d" />
+        <option name="BACKGROUND" value="303b3a" />
       </value>
     </option>
     <option name="INDENT_RAINBOW_COLOR_3">
       <value>
-        <option name="BACKGROUND" value="3a3f3b" />
+        <option name="BACKGROUND" value="373c39" />
       </value>
     </option>
     <option name="INDENT_RAINBOW_COLOR_4">
       <value>
-        <option name="BACKGROUND" value="3e3c3a" />
+        <option name="BACKGROUND" value="3a3937" />
       </value>
     </option>
     <option name="INDENT_RAINBOW_COLOR_5">
       <value>
-        <option name="BACKGROUND" value="3e3737" />
+        <option name="BACKGROUND" value="3a3435" />
       </value>
     </option>
     <option name="INDENT_RAINBOW_COLOR_6">
       <value>
-        <option name="BACKGROUND" value="3e3235" />
+        <option name="BACKGROUND" value="3a3033" />
       </value>
     </option>
     <option name="INDENT_RAINBOW_ERROR">
       <value>
-        <option name="BACKGROUND" value="3a2021" />
+        <option name="BACKGROUND" value="372021" />
       </value>
     </option>
     <option name="TEXT">
