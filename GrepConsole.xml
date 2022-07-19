@@ -6,15 +6,6 @@
           <option name="models">
             <list>
               <GrepModel>
-                <option name="expression" value="" />
-              </GrepModel>
-            </list>
-          </option>
-        </GrepCompositeModel>
-        <GrepCompositeModel>
-          <option name="models">
-            <list>
-              <GrepModel>
                 <option name="expression" value="INFO" />
               </GrepModel>
             </list>
@@ -38,6 +29,69 @@
             </list>
           </option>
         </GrepCompositeModel>
+        <GrepCompositeModel>
+          <option name="models">
+            <list>
+              <GrepModel>
+                <option name="expression" value="order:&#10;&lt;com.expiccproj.test.Order&gt;&#10;  &lt;header&gt;&#10;    &lt;date&gt;2006-11-15 18:45:28.0 UTC&lt;/date&gt;&#10;    &lt;customerNumber&gt;123123&lt;/customerNumber&gt;&#10;    &lt;customerName&gt;Joe&lt;/customerName&gt;&#10;  &lt;/header&gt;&#10;  &lt;orderItems&gt;&#10;    &lt;com.expiccproj.test.OrderItem&gt;&#10;      &lt;productId&gt;111&lt;/productId&gt;&#10;      &lt;quantity&gt;2&lt;/quantity&gt;&#10;      &lt;price&gt;8.9&lt;/price&gt;&#10;    &lt;/com.expiccproj.test.OrderItem&gt;&#10;    &lt;com.expiccproj.test.OrderItem&gt;&#10;      &lt;productId&gt;222&lt;/productId&gt;&#10;      &lt;quantity&gt;7&lt;/quantity&gt;&#10;      &lt;price&gt;5.2&lt;/price&gt;&#10;    &lt;/com.expiccproj.test.OrderItem&gt;&#10;  &lt;/orderItems&gt;&#10;&lt;/com.expiccproj.test.Order&gt;" />
+              </GrepModel>
+            </list>
+          </option>
+        </GrepCompositeModel>
+        <GrepCompositeModel>
+          <option name="models">
+            <list>
+              <GrepModel>
+                <option name="expression" value="2022-07-19 13:43:09.256 DEBUG 6072 --- [           main] com.expiccproj.service.smooks            :" />
+              </GrepModel>
+            </list>
+          </option>
+        </GrepCompositeModel>
+        <GrepCompositeModel>
+          <option name="models">
+            <list>
+              <GrepModel>
+                <option name="expression" value="" />
+              </GrepModel>
+            </list>
+          </option>
+        </GrepCompositeModel>
+        <GrepCompositeModel>
+          <option name="models">
+            <list>
+              <GrepModel>
+                <option name="expression" value="smooks" />
+              </GrepModel>
+            </list>
+          </option>
+        </GrepCompositeModel>
+        <GrepCompositeModel>
+          <option name="models">
+            <list>
+              <GrepModel>
+                <option name="expression" value="SenderPartyType:" />
+              </GrepModel>
+            </list>
+          </option>
+        </GrepCompositeModel>
+        <GrepCompositeModel>
+          <option name="models">
+            <list>
+              <GrepModel>
+                <option name="expression" value="COBASICDocument" />
+              </GrepModel>
+            </list>
+          </option>
+        </GrepCompositeModel>
+        <GrepCompositeModel>
+          <option name="models">
+            <list>
+              <GrepModel>
+                <option name="expression" value="UTradeBusinessDocumentHeader" />
+              </GrepModel>
+            </list>
+          </option>
+        </GrepCompositeModel>
       </list>
     </option>
     <option name="profiles">
@@ -49,6 +103,72 @@
               <GrepExpressionGroup>
                 <option name="grepExpressionItems">
                   <list>
+                    <GrepExpressionItem>
+                      <option name="continueMatching" value="true" />
+                      <option name="grepExpression" value="&lt;com.expiccproj.ebxml.getmate.vo.xml.COBASICType/&gt;&#10;" />
+                      <option name="highlightOnlyMatchingText" value="true" />
+                      <option name="operationOnMatch" value="CONTINUE_MATCHING" />
+                      <option name="style">
+                        <GrepStyle>
+                          <option name="backgroundColor">
+                            <GrepColor>
+                              <option name="color" value="-8355840" />
+                              <option name="enabled" value="true" />
+                            </GrepColor>
+                          </option>
+                          <option name="foregroundColor">
+                            <GrepColor>
+                              <option name="color" value="-16777216" />
+                              <option name="enabled" value="true" />
+                            </GrepColor>
+                          </option>
+                        </GrepStyle>
+                      </option>
+                    </GrepExpressionItem>
+                    <GrepExpressionItem>
+                      <option name="continueMatching" value="true" />
+                      <option name="grepExpression" value="order:&#10;&lt;com.expiccproj.test.Order&gt;&#10;  &lt;header&gt;&#10;    &lt;date&gt;2006-11-15 18:45:28.0 UTC&lt;/date&gt;&#10;    &lt;customerNumber&gt;123123&lt;/customerNumber&gt;&#10;    &lt;customerName&gt;Joe&lt;/customerName&gt;&#10;  &lt;/header&gt;&#10;  &lt;orderItems&gt;&#10;    &lt;com.expiccproj.test.OrderItem&gt;&#10;      &lt;productId&gt;111&lt;/productId&gt;&#10;      &lt;quantity&gt;2&lt;/quantity&gt;&#10;      &lt;price&gt;8.9&lt;/price&gt;&#10;    &lt;/com.expiccproj.test.OrderItem&gt;&#10;    &lt;com.expiccproj.test.OrderItem&gt;&#10;      &lt;productId&gt;222&lt;/productId&gt;&#10;      &lt;quantity&gt;7&lt;/quantity&gt;&#10;      &lt;price&gt;5.2&lt;/price&gt;&#10;    &lt;/com.expiccproj.test.OrderItem&gt;&#10;  &lt;/orderItems&gt;&#10;&lt;/com.expiccproj.test.Order&gt;" />
+                      <option name="highlightOnlyMatchingText" value="true" />
+                      <option name="operationOnMatch" value="CONTINUE_MATCHING" />
+                      <option name="style">
+                        <GrepStyle>
+                          <option name="backgroundColor">
+                            <GrepColor>
+                              <option name="color" value="-5658199" />
+                              <option name="enabled" value="true" />
+                            </GrepColor>
+                          </option>
+                          <option name="foregroundColor">
+                            <GrepColor>
+                              <option name="color" value="-16777216" />
+                              <option name="enabled" value="true" />
+                            </GrepColor>
+                          </option>
+                        </GrepStyle>
+                      </option>
+                    </GrepExpressionItem>
+                    <GrepExpressionItem>
+                      <option name="continueMatching" value="true" />
+                      <option name="grepExpression" value="order:&#10;&lt;com.expiccproj.test.Order&gt;&#10;  &lt;header&gt;&#10;    &lt;date&gt;2006-11-15 18:45:28.0 UTC&lt;/date&gt;&#10;    &lt;customerNumber&gt;123123&lt;/customerNumber&gt;&#10;    &lt;customerName&gt;Joe&lt;/customerName&gt;&#10;  &lt;/header&gt;&#10;  &lt;orderItems&gt;&#10;    &lt;com.expiccproj.test.OrderItem&gt;&#10;      &lt;productId&gt;111&lt;/productId&gt;&#10;      &lt;quantity&gt;2&lt;/quantity&gt;&#10;      &lt;price&gt;8.9&lt;/price&gt;&#10;    &lt;/com.expiccproj.test.OrderItem&gt;&#10;    &lt;com.expiccproj.test.OrderItem&gt;&#10;      &lt;productId&gt;222&lt;/productId&gt;&#10;      &lt;quantity&gt;7&lt;/quantity&gt;&#10;      &lt;price&gt;5.2&lt;/price&gt;&#10;    &lt;/com.expiccproj.test.OrderItem&gt;&#10;  &lt;/orderItems&gt;&#10;&lt;/com.expiccproj.test.Order&gt;" />
+                      <option name="highlightOnlyMatchingText" value="true" />
+                      <option name="operationOnMatch" value="CONTINUE_MATCHING" />
+                      <option name="style">
+                        <GrepStyle>
+                          <option name="backgroundColor">
+                            <GrepColor>
+                              <option name="color" value="-10005522" />
+                              <option name="enabled" value="true" />
+                            </GrepColor>
+                          </option>
+                          <option name="foregroundColor">
+                            <GrepColor>
+                              <option name="color" value="-16777216" />
+                              <option name="enabled" value="true" />
+                            </GrepColor>
+                          </option>
+                        </GrepStyle>
+                      </option>
+                    </GrepExpressionItem>
                     <GrepExpressionItem>
                       <option name="grepExpression" value=".*FATAL.*" />
                       <option name="style">
@@ -114,6 +234,7 @@
                         <GrepStyle>
                           <option name="backgroundColor">
                             <GrepColor>
+                              <option name="color" value="-1939886" />
                               <option name="colorKey" value="GrepConsole.info.background" />
                               <option name="enabled" value="true" />
                             </GrepColor>
@@ -150,6 +271,7 @@
                       </option>
                     </GrepExpressionItem>
                     <GrepExpressionItem>
+                      <option name="enabled" value="false" />
                       <option name="grepExpression" value=".*TRACE.*" />
                       <option name="style">
                         <GrepStyle>
@@ -174,7 +296,27 @@
                 </option>
               </GrepExpressionGroup>
               <GrepExpressionGroup>
-                <option name="name" value="@Theme Name@" />
+                <option name="grepExpressionItems">
+                  <list>
+                    <GrepExpressionItem>
+                      <option name="continueMatching" value="true" />
+                      <option name="grepExpression" value="min" />
+                      <option name="highlightOnlyMatchingText" value="true" />
+                      <option name="operationOnMatch" value="CONTINUE_MATCHING" />
+                      <option name="style">
+                        <GrepStyle>
+                          <option name="backgroundColor">
+                            <GrepColor>
+                              <option name="color" value="-7722014" />
+                              <option name="enabled" value="true" />
+                            </GrepColor>
+                          </option>
+                        </GrepStyle>
+                      </option>
+                    </GrepExpressionItem>
+                  </list>
+                </option>
+                <option name="name" value="personal" />
               </GrepExpressionGroup>
             </list>
           </option>
