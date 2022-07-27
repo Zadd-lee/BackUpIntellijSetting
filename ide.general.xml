@@ -12,7 +12,13 @@
     <option name="widgets">
       <map>
         <entry key="LineSeparator" value="false" />
-        <entry key="PowerSaveMode" value="true" />
+        <entry key="Memory" value="true" />
+        <entry key="Position" value="false" />
+        <entry key="ReadOnlyAttribute" value="false" />
+        <entry key="com.codota.intellij.common.notifier.CodotaStatusWidget" value="false" />
+        <entry key="com.intellij.psi.codeStyle.statusbar.CodeStyleStatusBarWidget" value="false" />
+        <entry key="git" value="false" />
+        <entry key="mtStatusBar" value="false" />
       </map>
     </option>
   </component>
