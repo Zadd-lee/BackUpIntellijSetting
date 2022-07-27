@@ -1,9 +1,0 @@
-<application>
-  <component name="ConsoleFoldingSettings">
-    <option name="addedPositive">
-      <list>
-        <option value="WARNING: Please consider reporting this to the maintainers of com.thoughtworks.xstream.core.util.Fields" />
-      </list>
-    </option>
-  </component>
-</application>
