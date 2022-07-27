@@ -1,5 +1,10 @@
 <application>
   <component name="MaterialThemeConfig">
+    <option name="pristineConfig" value="false" />
+    <option name="tabsHeight" value="22" />
+    <option name="accentColor" value="84ffff" />
+    <option name="selectedTheme" value="DEEPOCEAN" />
     <option name="userId" value="6ffd1177:1823d11ace7:-7fbc" />
+    <option name="version" value="6.16.2" />
   </component>
 </application>
