@@ -1,15 +1,15 @@
 <application>
   <component name="MaterialThemeConfig">
-    <option name="UIFont" value="Segoe UI" />
+    <option name="UIFont" value="Fira Code" />
     <option name="contrastMode" value="true" />
     <option name="isContrastMode" value="true" />
     <option name="pristineConfig" value="false" />
-    <option name="settingsSelectedTab" value="2" />
-    <option name="tabsHeight" value="22" />
-    <option name="accentColor" value="ff9800" />
-    <option name="selectedTheme" value="DARKER" />
+    <option name="tabsHeight" value="20" />
+    <option name="accentColor" value="5b91ff" />
+    <option name="selectedTheme" value="NATIVE" />
     <option name="userId" value="6ffd1177:1823d11ace7:-7fbc" />
     <option name="version" value="6.16.2" />
-    <option name="uiFont" value="Segoe UI" />
+    <option name="uiFont" value="Fira Code" />
+    <option name="showWhatsNew" value="false" />
   </component>
 </application>
