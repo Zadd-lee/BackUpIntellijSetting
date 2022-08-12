@@ -3,5 +3,10 @@
     <driver id="oracle.19">
       <artifact id="Oracle" name="Oracle" use="true" version="21.5.0.0" />
     </driver>
+    <driver id="4049ffd8-dd81-4612-95db-a76eb27df2b3" name="Cubrid" driver-class="java.sql.Driver">
+      <library>
+        <url>file://$USER_HOME$/Downloads/JDBC-11.1-latest-cubrid.jar</url>
+      </library>
+    </driver>
   </component>
 </application>
