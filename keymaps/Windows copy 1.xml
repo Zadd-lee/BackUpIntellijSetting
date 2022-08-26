@@ -5,6 +5,10 @@
   <action id="CloseAllEditorsButActive">
     <keyboard-shortcut first-keystroke="shift ctrl f4" />
   </action>
+  <action id="EditorResetFontSize">
+    <mouse-shortcut keystroke="shift control button143" />
+    <mouse-shortcut keystroke="shift control button142" />
+  </action>
   <action id="GrepConsole.ClearHighlight">
     <keyboard-shortcut first-keystroke="shift ctrl alt minus" />
   </action>
