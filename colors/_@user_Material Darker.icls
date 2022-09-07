@@ -4,7 +4,7 @@
     <property name="created">2022-07-27T11:51:53</property>
     <property name="ide">idea</property>
     <property name="ideVersion">2021.3.3.0.0</property>
-    <property name="modified">2022-09-07T09:34:08</property>
+    <property name="modified">2022-09-07T15:28:50</property>
     <property name="originalScheme">Material Darker</property>
   </metaInfo>
   <console-font>
@@ -476,6 +476,7 @@
       <value>
         <option name="FOREGROUND" value="f78c6c" />
         <option name="EFFECT_COLOR" value="f78c6c" />
+        <option name="EFFECT_TYPE" value="-1" />
       </value>
     </option>
     <option name="CUSTOM_KEYWORD1_ATTRIBUTES">
@@ -2855,8 +2856,7 @@
     <option name="NOT_USED_ELEMENT_ATTRIBUTES">
       <value>
         <option name="FOREGROUND" value="ffffff" />
-        <option name="BACKGROUND" value="d55151" />
-        <option name="FONT_TYPE" value="1" />
+        <option name="EFFECT_COLOR" value="68d7ff" />
       </value>
     </option>
     <option name="OC.CLASS_REFERENCE">
