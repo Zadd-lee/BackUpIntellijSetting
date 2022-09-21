@@ -1,24 +1,11 @@
 <application>
   <component name="MaterialThemeConfig">
-    <option name="UIFont" value="Fira Code" />
-    <option name="compactMenus" value="true" />
-    <option name="compactStatusBar" value="true" />
-    <option name="contrastMode" value="true" />
-    <option name="highContrast" value="true" />
-    <option name="accentMode" value="true" />
-    <option name="isCompactMenus" value="true" />
-    <option name="isCompactStatusBar" value="true" />
-    <option name="isContrastMode" value="true" />
-    <option name="isHighContrast" value="true" />
     <option name="isWizardShown" value="true" />
     <option name="pristineConfig" value="false" />
-    <option name="upperCaseButtons" value="false" />
-    <option name="tabsHeight" value="15" />
-    <option name="accentColor" value="84ffff" />
-    <option name="selectedTheme" value="DEEPOCEAN" />
+    <option name="settingsSelectedTab" value="1" />
+    <option name="accentColor" value="74a0f1" />
+    <option name="selectedTheme" value="MOONLIGHT" />
     <option name="userId" value="6ffd1177:1823d11ace7:-7fbc" />
-    <option name="version" value="7.9.0" />
-    <option name="uiFont" value="Fira Code" />
-    <option name="showWhatsNew" value="false" />
+    <option name="version" value="7.10.1" />
   </component>
 </application>
