@@ -20,7 +20,9 @@
         <entry key="TypeScriptInfo" value="false" />
         <entry key="com.codota.intellij.common.notifier.CodotaStatusWidget" value="false" />
         <entry key="com.intellij.psi.codeStyle.statusbar.CodeStyleStatusBarWidget" value="false" />
+        <entry key="mtProjectFactory" value="false" />
         <entry key="mtStatusBar" value="false" />
+        <entry key="mtThemeFactory" value="false" />
       </map>
     </option>
   </component>
