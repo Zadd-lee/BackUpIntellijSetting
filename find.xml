@@ -1,11 +1,11 @@
 <application>
   <component name="FindSettings">
-    <option name="customScope" value="All Places" />
-    <option name="defaultScopeName" value="All Places" />
+    <option name="customScope" value="File 'C:\Users\user\.ideaLibSources\log4j-slf4j-impl-2.5-sources.jar!\org\apache\logging\slf4j\Log4jLoggerFactory.java [lib]'" />
+    <option name="defaultScopeName" value="File 'C:\Users\user\.ideaLibSources\log4j-slf4j-impl-2.5-sources.jar!\org\apache\logging\slf4j\Log4jLoggerFactory.java [lib]'" />
     <option name="showResultsInSeparateView" value="true" />
     <option name="WITH_SUBDIRECTORIES" value="false" />
     <option name="SHOW_RESULTS_IN_SEPARATE_VIEW" value="true" />
-    <option name="SEARCH_SCOPE" value="All Places" />
+    <option name="SEARCH_SCOPE" value="File 'C:\Users\user\.ideaLibSources\log4j-slf4j-impl-2.5-sources.jar!\org\apache\logging\slf4j\Log4jLoggerFactory.java [lib]'" />
     <mask>*.css</mask>
     <mask>*.html</mask>
     <mask>*.jsp</mask>
