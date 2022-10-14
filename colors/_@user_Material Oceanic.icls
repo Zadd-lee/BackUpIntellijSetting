@@ -4,7 +4,7 @@
     <property name="created">2022-07-27T11:51:53</property>
     <property name="ide">idea</property>
     <property name="ideVersion">2021.3.3.0.0</property>
-    <property name="modified">2022-08-11T14:40:33</property>
+    <property name="modified">2022-10-14T14:33:56</property>
     <property name="originalScheme">Material Oceanic</property>
   </metaInfo>
   <option name="LINE_SPACING" value="1.4" />
@@ -1213,37 +1213,37 @@
     </option>
     <option name="INDENT_RAINBOW_COLOR_1">
       <value>
-        <option name="BACKGROUND" value="3c4750" />
+        <option name="BACKGROUND" value="3e4953" />
       </value>
     </option>
     <option name="INDENT_RAINBOW_COLOR_2">
       <value>
-        <option name="BACKGROUND" value="394b4d" />
+        <option name="BACKGROUND" value="3b4d50" />
       </value>
     </option>
     <option name="INDENT_RAINBOW_COLOR_3">
       <value>
-        <option name="BACKGROUND" value="3f4b4c" />
+        <option name="BACKGROUND" value="424e4e" />
       </value>
     </option>
     <option name="INDENT_RAINBOW_COLOR_4">
       <value>
-        <option name="BACKGROUND" value="43494a" />
+        <option name="BACKGROUND" value="464b4c" />
       </value>
     </option>
     <option name="INDENT_RAINBOW_COLOR_5">
       <value>
-        <option name="BACKGROUND" value="434448" />
+        <option name="BACKGROUND" value="46464a" />
       </value>
     </option>
     <option name="INDENT_RAINBOW_COLOR_6">
       <value>
-        <option name="BACKGROUND" value="434046" />
+        <option name="BACKGROUND" value="464148" />
       </value>
     </option>
     <option name="INDENT_RAINBOW_ERROR">
       <value>
-        <option name="BACKGROUND" value="3e2d31" />
+        <option name="BACKGROUND" value="412d31" />
       </value>
     </option>
     <option name="INFO_ATTRIBUTES">

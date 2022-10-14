@@ -3,7 +3,7 @@
     <property name="created">2022-05-23T17:29:56</property>
     <property name="ide">idea</property>
     <property name="ideVersion">2021.3.3.0.0</property>
-    <property name="modified">2022-10-14T13:32:43</property>
+    <property name="modified">2022-10-14T14:33:55</property>
     <property name="originalScheme">Darcula</property>
   </metaInfo>
   <colors>
@@ -36,37 +36,37 @@
   <attributes>
     <option name="INDENT_RAINBOW_COLOR_1">
       <value>
-        <option name="BACKGROUND" value="404145" />
+        <option name="BACKGROUND" value="424347" />
       </value>
     </option>
     <option name="INDENT_RAINBOW_COLOR_2">
       <value>
-        <option name="BACKGROUND" value="3d4542" />
+        <option name="BACKGROUND" value="404745" />
       </value>
     </option>
     <option name="INDENT_RAINBOW_COLOR_3">
       <value>
-        <option name="BACKGROUND" value="444540" />
+        <option name="BACKGROUND" value="464843" />
       </value>
     </option>
     <option name="INDENT_RAINBOW_COLOR_4">
       <value>
-        <option name="BACKGROUND" value="47423f" />
+        <option name="BACKGROUND" value="4b4541" />
       </value>
     </option>
     <option name="INDENT_RAINBOW_COLOR_5">
       <value>
-        <option name="BACKGROUND" value="473e3d" />
+        <option name="BACKGROUND" value="4b403f" />
       </value>
     </option>
     <option name="INDENT_RAINBOW_COLOR_6">
       <value>
-        <option name="BACKGROUND" value="473a3b" />
+        <option name="BACKGROUND" value="4b3c3d" />
       </value>
     </option>
     <option name="INDENT_RAINBOW_ERROR">
       <value>
-        <option name="BACKGROUND" value="422828" />
+        <option name="BACKGROUND" value="452828" />
       </value>
     </option>
   </attributes>

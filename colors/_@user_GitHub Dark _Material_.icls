@@ -4,7 +4,7 @@
     <property name="created">2022-07-27T11:51:53</property>
     <property name="ide">idea</property>
     <property name="ideVersion">2021.3.3.0.0</property>
-    <property name="modified">2022-10-14T13:32:43</property>
+    <property name="modified">2022-10-14T14:33:55</property>
     <property name="originalScheme">GitHub Dark (Material)</property>
   </metaInfo>
   <option name="LINE_SPACING" value="1.4" />
@@ -1168,37 +1168,37 @@
     </option>
     <option name="INDENT_RAINBOW_COLOR_1">
       <value>
-        <option name="BACKGROUND" value="3a3f47" />
+        <option name="BACKGROUND" value="3c424a" />
       </value>
     </option>
     <option name="INDENT_RAINBOW_COLOR_2">
       <value>
-        <option name="BACKGROUND" value="374345" />
+        <option name="BACKGROUND" value="3a4647" />
       </value>
     </option>
     <option name="INDENT_RAINBOW_COLOR_3">
       <value>
-        <option name="BACKGROUND" value="3d4443" />
+        <option name="BACKGROUND" value="404745" />
       </value>
     </option>
     <option name="INDENT_RAINBOW_COLOR_4">
       <value>
-        <option name="BACKGROUND" value="414142" />
+        <option name="BACKGROUND" value="454344" />
       </value>
     </option>
     <option name="INDENT_RAINBOW_COLOR_5">
       <value>
-        <option name="BACKGROUND" value="413c40" />
+        <option name="BACKGROUND" value="453e42" />
       </value>
     </option>
     <option name="INDENT_RAINBOW_COLOR_6">
       <value>
-        <option name="BACKGROUND" value="41383e" />
+        <option name="BACKGROUND" value="453a3f" />
       </value>
     </option>
     <option name="INDENT_RAINBOW_ERROR">
       <value>
-        <option name="BACKGROUND" value="3d272a" />
+        <option name="BACKGROUND" value="40262a" />
       </value>
     </option>
     <option name="INFO_ATTRIBUTES">

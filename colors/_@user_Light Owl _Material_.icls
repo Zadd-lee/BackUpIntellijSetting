@@ -4,7 +4,7 @@
     <property name="created">2022-07-27T11:51:53</property>
     <property name="ide">idea</property>
     <property name="ideVersion">2021.3.3.0.0</property>
-    <property name="modified">2022-10-14T13:32:43</property>
+    <property name="modified">2022-10-14T14:33:55</property>
     <property name="originalScheme">Light Owl (Material)</property>
   </metaInfo>
   <option name="LINE_SPACING" value="1.4" />
@@ -1211,37 +1211,37 @@
     </option>
     <option name="INDENT_RAINBOW_COLOR_1">
       <value>
-        <option name="BACKGROUND" value="f2f3f8" />
+        <option name="BACKGROUND" value="f1f2f8" />
       </value>
     </option>
     <option name="INDENT_RAINBOW_COLOR_2">
       <value>
-        <option name="BACKGROUND" value="eef8f5" />
+        <option name="BACKGROUND" value="edf8f4" />
       </value>
     </option>
     <option name="INDENT_RAINBOW_COLOR_3">
       <value>
-        <option name="BACKGROUND" value="f7f9f2" />
+        <option name="BACKGROUND" value="f6f9f1" />
       </value>
     </option>
     <option name="INDENT_RAINBOW_COLOR_4">
       <value>
-        <option name="BACKGROUND" value="fcf5f1" />
+        <option name="BACKGROUND" value="fcf4ef" />
       </value>
     </option>
     <option name="INDENT_RAINBOW_COLOR_5">
       <value>
-        <option name="BACKGROUND" value="fcefee" />
+        <option name="BACKGROUND" value="fcedec" />
       </value>
     </option>
     <option name="INDENT_RAINBOW_COLOR_6">
       <value>
-        <option name="BACKGROUND" value="fceaeb" />
+        <option name="BACKGROUND" value="fce8e9" />
       </value>
     </option>
     <option name="INDENT_RAINBOW_ERROR">
       <value>
-        <option name="BACKGROUND" value="dac0c0" />
+        <option name="BACKGROUND" value="d6b9b9" />
       </value>
     </option>
     <option name="INFO_ATTRIBUTES">

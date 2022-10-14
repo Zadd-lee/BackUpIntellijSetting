@@ -4,7 +4,7 @@
     <property name="created">2022-07-27T11:51:53</property>
     <property name="ide">idea</property>
     <property name="ideVersion">2021.3.3.0.0</property>
-    <property name="modified">2022-10-14T13:32:43</property>
+    <property name="modified">2022-10-14T14:33:56</property>
     <property name="originalScheme">Material Sky Blue</property>
   </metaInfo>
   <option name="LINE_SPACING" value="1.4" />
@@ -1174,37 +1174,37 @@
     </option>
     <option name="INDENT_RAINBOW_COLOR_1">
       <value>
-        <option name="BACKGROUND" value="edeef3" />
+        <option name="BACKGROUND" value="ecedf3" />
       </value>
     </option>
     <option name="INDENT_RAINBOW_COLOR_2">
       <value>
-        <option name="BACKGROUND" value="eaf3f0" />
+        <option name="BACKGROUND" value="e8f3ef" />
       </value>
     </option>
     <option name="INDENT_RAINBOW_COLOR_3">
       <value>
-        <option name="BACKGROUND" value="f2f4ed" />
+        <option name="BACKGROUND" value="f1f4ed" />
       </value>
     </option>
     <option name="INDENT_RAINBOW_COLOR_4">
       <value>
-        <option name="BACKGROUND" value="f7f0ec" />
+        <option name="BACKGROUND" value="f7f0eb" />
       </value>
     </option>
     <option name="INDENT_RAINBOW_COLOR_5">
       <value>
-        <option name="BACKGROUND" value="f7eae9" />
+        <option name="BACKGROUND" value="f7e9e8" />
       </value>
     </option>
     <option name="INDENT_RAINBOW_COLOR_6">
       <value>
-        <option name="BACKGROUND" value="f7e5e6" />
+        <option name="BACKGROUND" value="f7e3e4" />
       </value>
     </option>
     <option name="INDENT_RAINBOW_ERROR">
       <value>
-        <option name="BACKGROUND" value="d5bbbb" />
+        <option name="BACKGROUND" value="d2b5b5" />
       </value>
     </option>
     <option name="INFO_ATTRIBUTES">
